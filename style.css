@@ -1,0 +1,38 @@
+#filmTitle {
+	text-align: center;
+}
+
+#showingTitle {
+	text-align: center;
+}
+#headTitle {
+	text-align: center;
+}
+#mviedet {
+	list-style: none;
+}
+
+#poster {
+	width: 680px;
+	height: 610px;
+}
+
+.test {
+	margin: 20px;
+	border-radius: 8px;
+}
+
+#headTitle {
+	font-family: "Chivo Mono", monospace;
+}
+#descript {
+	font-family: "Caveat", cursive;
+}
+#movieDescription {
+	text-align: center;
+}
+
+.sinema:hover {
+	cursor: pointer;
+	padding: 20px;
+}
